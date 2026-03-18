@@ -1,0 +1,31 @@
+h1 {
+  color: white;
+  text-shadow: 2px 2px white;
+  text-align: center;
+  background-color: black;
+  text-size-adjust: bold;
+}
+
+body {
+  background-color: blueviolet;
+  
+}
+
+footer {
+  background-color: black;
+  text-decoration-style: wavy;
+  text-align: center;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+main {
+
+}
+
+header {
+    background-color: black;
+}
